@@ -1,5 +1,7 @@
 # FRIED BRUSSELS SPROUTS
 
+![alt texr](https://github.com/ivycraft/turkey-dome-recipes/raw/master/fried-brussels-sprouts(1).jpg "Fried Brussels Sprouts")
+
 prep time: 10 minutes plus time to heat oil, 
 cook time: 3 min.
 
