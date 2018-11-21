@@ -46,6 +46,8 @@ Brine Time: 24 hours
 * geodesic dome
 * butcher's twine
 * aluminum vertical turkey frying rack
+* geodesic dome or 7 foot (2.2 meter) tall metal ladder
+* at least 3 caribiners
 * probe or candy thermometer
 * backup thermometer (probe, candy or infrared)
 * turkey probe thermometer
@@ -57,15 +59,15 @@ Cook Time: 3.5 minutes per 1 pound (2 minutes per 3 kilogram)
 
 1. There are a few ways to prep the bird for immersion in oil. The best way is to get an 'aluminum vertical turkey frying rack' (you can google this). Because our bird needed to go sideways in order to be fully immersed while safely having enough space at the top for the oil level, we ended up creating a suspension basket using butcher's twine and an aluminum pizza rack(image link). We also dropped in some stainless steel spacers to rest our rack above the bottom of the container, where the heat can potentially burn the turkey and cause other problems. 
 
-2. Setup your pulley system. Your bird is now mounted on a vertical frying rack or some other improvised creation, the important feature being that you'll be able to suspend it securely from the top. Now it's time to setup the rigging for safely lowering your turkey into the oil. A 2:1 pulley will give you the best
+2. Setup your pulley system. Your bird is now mounted on a vertical frying rack or some other improvised creation, the important feature being that you'll be able to suspend it securely from the top. Now it's time to setup the rigging for safely lowering your turkey into the oil. A [2:1 pulley](https://github.com/ivycraft/turkey-dome-recipes/raw/master/images/2to1pulley.jpg "2 to 1 pulley") will give you the simplest and most stable way to lower the turkey into your oil. If you don't yet feel confident that you understand the process that's about to happen, first, carefully read (this document)[https://github.com/ivycraft/turkey-dome-recipes/raw/master/images/AB-turkey-derrick.pdf "Alton Brown Turkey Derrick"] about setting up your suspension system.
 
 3. Add oil. Remember when we marked the amount of oil we needed by submerging the turkey in the oil pot using water to measure displacement? Fill your fryer with that predetermined amount of oil that will allow for safe turkey frying.
 
-3. Light the burner and bring the oil temperature up to
-Ok, so the bird is prepped and we're just about ready to go. Now it's time to get the oil heated.
+3. Ok, so the bird is prepped, rigging is setup and we're just about ready to go. It's now time to get the oil heated. Light the burner and bring the oil temperature up to 300F (150C). At 300F, slowly and carefully, using your rigging system, lower your turkey into the fryer until completely submerged, then tie off.
 
+4. Increase the fryer temperature to 350F (180C) and maintain until the end of your cook. Use temperature probes in the deepest part of the turkey's breast or thigh to get an accurate reading. You're looking for an internal temperature of at least 160F (70C).
 
-
+5. Once cook time is complete, remove the turkey from the fryer and carefully transfer to a large heat resistant tray or bowl. Let rest for 30 minutes then carve and serve. Some of our turkey's skin was a bit black. Don't be alarmed! Give it a taste test and if a bit too cooked, remove, but the meat underneath should be just fine if you've followed temperature and time instructions.
 
 
 #### Oil Temp Table
