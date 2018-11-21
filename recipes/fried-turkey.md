@@ -4,7 +4,9 @@
 
 #### Step 1: Danger Everywhere!
 
-Keeping the oil level at least 5 inches (12 cm) below the rim of your deep fryer after your turkey is fully submerged is critically important. If you do not do this, you'll have boil over and potentially set the oil on fire as it drips down the side of the pot and comes into contact with your heat source. 
+Every year deep fryer fires are responsible for the destruction of ~1000 homes in the United States. Be careful!
+
+Along with continually measuring temperature and maintaining 350F (170C) while cooking, Keeping the oil level at least 5 inches (12 cm) below the rim of your deep fryer after your turkey is fully submerged is critically important. If you do not do this, you'll have boil over and potentially set the oil on fire as it drips down the side of the pot and comes into contact with your heat source. 
 
 The easiest way to ensure safe operation of your fryer is by measuring displacement. To do this, place your thawed turkey into your fryer in the orientation it will be while cooking. Fill the fryer with water until you have 1-2 inches (3-5cm) of water covering your turkey. Remove the turkey and measure the water level in the fryer. This is how much oil you'll need to add after the turkey has been brined. We measured by mounting our candy thermometer on the side of the pot in it's lowest position and used that as a gauge.
 
@@ -59,7 +61,7 @@ Cook Time: 3.5 minutes per 1 pound (2 minutes per 3 kilogram)
 
 1. There are a few ways to prep the bird for immersion in oil. The best way is to get an 'aluminum vertical turkey frying rack' (you can google this). Because our bird needed to go sideways in order to be fully immersed while safely having enough space at the top for the oil level, we ended up creating a suspension basket using butcher's twine and an aluminum pizza rack(image link). We also dropped in some stainless steel spacers to rest our rack above the bottom of the container, where the heat can potentially burn the turkey and cause other problems. 
 
-2. Setup your pulley system. Your bird is now mounted on a vertical frying rack or some other improvised creation, the important feature being that you'll be able to suspend it securely from the top. Now it's time to setup the rigging for safely lowering your turkey into the oil. A [2:1 pulley](https://github.com/ivycraft/turkey-dome-recipes/raw/master/images/2to1pulley.jpg "2 to 1 pulley") will give you the simplest and most stable way to lower the turkey into your oil. If you don't yet feel confident that you understand the process that's about to happen, first, carefully read (this document)[https://github.com/ivycraft/turkey-dome-recipes/raw/master/images/AB-turkey-derrick.pdf "Alton Brown Turkey Derrick"] about setting up your suspension system.
+2. Setup your pulley system. Your bird is now mounted on a vertical frying rack or some other improvised creation, the important feature being that you'll be able to suspend it securely from the top. Now it's time to setup the rigging for safely lowering your turkey into the oil. A [2:1 pulley](https://github.com/ivycraft/turkey-dome-recipes/raw/master/images/2to1pulley.jpg "2 to 1 pulley") will give you the simplest and most stable way to lower the turkey into your oil. If you don't yet feel confident that you understand the process that's about to happen, first, carefully read [this document](https://github.com/ivycraft/turkey-dome-recipes/raw/master/images/AB-turkey-derrick.pdf "Alton Brown Turkey Derrick") about setting up your suspension system.
 
 3. Add oil. Remember when we marked the amount of oil we needed by submerging the turkey in the oil pot using water to measure displacement? Fill your fryer with that predetermined amount of oil that will allow for safe turkey frying.
 
