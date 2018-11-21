@@ -6,7 +6,7 @@
 
 Every year deep fryer fires are responsible for the destruction of ~1000 homes in the United States. Be careful!
 
-Along with continually measuring temperature and maintaining 350F (170C) while cooking, Keeping the oil level at least 5 inches (12 cm) below the rim of your deep fryer after your turkey is fully submerged is critically important. If you do not do this, you'll have boil over and potentially set the oil on fire as it drips down the side of the pot and comes into contact with your heat source. 
+Along with continually measuring temperature and maintaining 350F (170C) while cooking, keeping the oil level at least 5 inches (12 cm) below the rim of your deep fryer after your turkey is fully submerged is critically important. If you do not do this, you'll have boil over and potentially set the oil on fire as it drips down the side of the pot and comes into contact with your heat source. 
 
 The easiest way to ensure safe operation of your fryer is by measuring displacement. To do this, place your thawed turkey into your fryer in the orientation it will be while cooking. Fill the fryer with water until you have 1-2 inches (3-5cm) of water covering your turkey. Remove the turkey and measure the water level in the fryer. This is how much oil you'll need to add after the turkey has been brined. We measured by mounting our candy thermometer on the side of the pot in it's lowest position and used that as a gauge.
 
