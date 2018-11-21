@@ -1,6 +1,6 @@
 # FRIED TURKEY
 
-![alt texr](https://github.com/ivycraft/turkey-dome-recipes/raw/master/images/fried-turkey.jpg "Fried Turkey")
+![image](https://github.com/ivycraft/turkey-dome-recipes/raw/master/images/fried-turkey.jpg "Fried Turkey")
 
 #### Step 1: Danger Everywhere!
 
@@ -39,29 +39,34 @@ Brine Time: 24 hours
 
 #### Step 3: Fry that Turkey!
 
-40 quart (38 liter) pot
-Approximately 5 gallons (19 liters) peanut, or other high heat oil (see smokepoint table below)
-large gas burner
-propane
-geodesic dome
-butcher's twine
-aluminum vertical turkey frying rack
-probe or candy thermometer
-backup thermometer (probe, candy or infrared)
-turkey probe thermometer
-6 more probe thermometers
+* 40 quart (38 liter) fryer pot
+* Approximately 5 gallons (19 liters) peanut, or other high heat oil (see smokepoint table below)
+* large gas burner
+* propane
+* geodesic dome
+* butcher's twine
+* aluminum vertical turkey frying rack
+* probe or candy thermometer
+* backup thermometer (probe, candy or infrared)
+* turkey probe thermometer
+* 6 more probe thermometers
 
 Prep Time: 1-2 hours
+
 Cook Time: 3.5 minutes per 1 pound (2 minutes per 3 kilogram)
 
 1. There are a few ways to prep the bird for immersion in oil. The best way is to get an 'aluminum vertical turkey frying rack' (you can google this). Because our bird needed to go sideways in order to be fully immersed while safely having enough space at the top for the oil level, we ended up creating a suspension basket using butcher's twine and an aluminum pizza rack(image link). We also dropped in some stainless steel spacers to rest our rack above the bottom of the container, where the heat can potentially burn the turkey and cause other problems. 
 
-2. Add oil. Remember when we marked the amount of oil we needed by submerging the turkey in the oil pot using water? fill your fryer with the predetermined amount of oil that will allow for safe turkey frying.
+2. Setup your pulley system. Your bird is now mounted on a vertical frying rack or some other improvised creation, the important feature being that you'll be able to suspend it securely from the top. Now it's time to setup the rigging for safely lowering your turkey into the oil. A 2:1 pulley will give you the best
 
+3. Add oil. Remember when we marked the amount of oil we needed by submerging the turkey in the oil pot using water to measure displacement? Fill your fryer with that predetermined amount of oil that will allow for safe turkey frying.
 
+3. Light the burner and bring the oil temperature up to
 Ok, so the bird is prepped and we're just about ready to go. Now it's time to get the oil heated.
 
-Prep time
+
+
+
 
 #### Oil Temp Table
 | Type of Fat |	Smoke Point |	Neutral? |
