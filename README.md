@@ -3,4 +3,4 @@ On 2018-11-17 we outfitted our hackerspace's geodesic dome with lights, cameras,
 
  * ### [FRIED BRUSSELS SPROUTS](recipes/fried-brussels-sprouts.md "fried brussels sprouts recipe")
  * ### [FRIED TURKEY](recipes/fried-turkey.md "fried turkey recipe")
- * ### VEGAN BEAN DIP
+ * ### [VEGAN BEAN DIP](recipes/vegan-bean-dip.md "vegan bean dip")
