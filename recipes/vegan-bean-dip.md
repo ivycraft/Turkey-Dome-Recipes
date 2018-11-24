@@ -1,6 +1,6 @@
 # VEGAN BEAN DIP
 
-prep time: 10 minutes
+prep time: 5 minutes
 
 ### INGREDIENTS:
  * 1 15 oz. can black beans drained and rinsed
