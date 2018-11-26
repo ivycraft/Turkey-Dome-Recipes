@@ -2,6 +2,8 @@
 
 VEGAN * GLUTEN FREE
 
+**Servings:** variable, roughly 6 - 8  **Prep time:** 5 minutes  **Cooking time:** 15-20 minutes
+
 ![image](https://github.com/romkey/turkey-dome-recipes/raw/master/images/cranberry-sauce.jpg)
       
 
@@ -22,5 +24,8 @@ Cranberry sauce is a great plce to be creative! Maybe you'd like it more with ho
 
 2. Use a zester (I prefer microplane but any will do) and scrape the citrus zest into the cranberries. If you're using a lemon or orange, use the whole fruit. If you're using a citron (Buddha's hand) then zest half of it.
 
+3. Add a splash - to ½ cup of cold water to the cranberries.
+
+4. Bring cranberries to a boil. Stirring occasionally, reduce to a simmer for 15 to 20 minutes or until most of the berries have burst and you have a thick jam.
 
 

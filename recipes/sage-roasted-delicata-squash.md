@@ -2,7 +2,7 @@
 
 VEGAN * GLUTEN FREE
 
-Servings: 4 - 6 Prep time: 10 minutes Cook time: 30 - 45 minutes
+**Servings:** 4 - 6 **Prep time:** 10 minutes **Cook time:** 30 - 45 minutes
 
 ![image](https://github.com/romkey/turkey-dome-recipes/raw/master/images/uncooked-delicata-squash.jpg "Uncooked Delicata Squash") 
 ![image](https://github.com/romkey/turkey-dome-recipes/raw/master/images/sage-roasted-delicata-squash.jpg "Sage Roasted Delicata Squash") 
