@@ -18,7 +18,7 @@ This is a slightly complicated recipe - you'll want to roast the mushrooms first
 
 ## Instructions
 
-1. Roast the mushrooms and collect their liquid by following Serious Eats' [Easy Roasted Mushrooms](https://www.seriouseats.com/recipes/2013/12/easy-roasted-mushroom-food-lab-recipe.html) ** this step is vital to bring out the earthy flavor of the mushrooms - if you skip it you'll end up with bland gravy **
+1. Roast the mushrooms and collect their liquid by following Serious Eats' [Easy Roasted Mushrooms](https://www.seriouseats.com/recipes/2013/12/easy-roasted-mushroom-food-lab-recipe.html) **this step is vital to bring out the earthy flavor of the mushrooms - if you skip it you'll end up with bland gravy**
 
 2. Put the fat in a pot big enough to hold the stock plus the mushrooms and their liquid.
 
@@ -41,8 +41,8 @@ Arrowroot is much lower carb than cornstarch or flour. Given that most people ar
 |------------|----|----|
 | arrowroot  | 16g  | 0.2g
 | flour      | 95g  | 2.3g
-| cornstarch | 117g | 1.5g  ** assumes using ¼ cup of starch **
-| potato starch | 133g | 1.7g ** assumes using ¼ cup of starch **
+| cornstarch | 117g | 1.5g  **assumes using ¼ cup of starch**
+| potato starch | 133g | 1.7g **assumes using ¼ cup of starch**
 
 The carbs/serving column assumes the recipe makes 10 cups of gravy and a serving is ¼ cup.
 

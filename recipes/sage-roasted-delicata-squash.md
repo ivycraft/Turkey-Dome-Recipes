@@ -14,6 +14,7 @@ Delicata squash makes a delicious, nutritious side. You don't even need to peel 
 - 1 delicata squash
 - 1 tablespoon dry sage (more or less depending on your preferences and the size of the squash)
 - 1 teaspoon dry thyme (more or less depending on your preferences and the size of the squash)
+- 2 tablespoons olive oil
 - salt and pepper to taste
 
 ## Instructions
