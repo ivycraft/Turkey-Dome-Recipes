@@ -24,7 +24,7 @@ This recipe makes a lot of gravy. If you want less, reduce the quantity of mushr
 
 2. Put the fat in a pot big enough to hold the stock plus the mushrooms and their liquid.
 
-3.Make the roux (cooked starch): heat the fat. When it's hot, add the starch (arrowroot or whatever you're using). Whisk the starch into the fat.
+3. Make the roux (cooked starch): heat the fat. When it's hot, add the starch (arrowroot or whatever you're using). Whisk the starch into the fat.
 
 4. Slowly add the stock, no more than a cup at a time. Whisk it into the roux to gradually combine them. This is the step that will make or break the gravy. Add the stock too fast and it's likely to be lumpy and uneven. Whisk it in gradually and it should be smooth.
 
