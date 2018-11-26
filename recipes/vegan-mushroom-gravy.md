@@ -42,9 +42,9 @@ Arrowroot is much lower carb than cornstarch or flour. Given that most people ar
 | starch | carbs/cup | carbs/serving
 |------------|----|----|
 | arrowroot  | 16g  | 0.2g
-| flour      | 95g  | 2.3g
-| cornstarch | 117g | 1.5g  _assumes using ¼ cup of starch_
-| potato starch | 133g | 1.7g _assumes using ¼ cup of starch_
+| flour      | 95g  | 1.2g
+| cornstarch | 117g | 0.7g  _assumes using ¼ cup of starch_
+| potato starch | 133g | 0.8g _assumes using ¼ cup of starch_
 
 The carbs/serving column assumes the recipe makes 10 cups of gravy and a serving is ¼ cup.
 
